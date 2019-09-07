@@ -11,7 +11,7 @@ title                    : "Rod Abhari"
 title_separator          : "-"
 name                     : &name "Rod Abhari"
 description              : &description "Doctoral student in Commmunication Science at the University of Wisconsin - Madison"
-url                      : https://rodabhari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rodabhari.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rodabhari/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rod Abhari"
-  avatar           : "Rod 2019"
+  avatar           : 
   bio              : "Rod researches the network dynamics of science communication, including the spread of misinformation and the filtering effects of the search engine.
   location         : "Madison, Wisconsin"
   employer         : University of Wisconsin - Madison
