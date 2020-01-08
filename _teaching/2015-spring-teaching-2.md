@@ -3,7 +3,7 @@ title: "Dictators, Demagogues, Extremists"
 collection: teaching
 type: "Undergraduate Course"
 venue: "University of Wisconsin - Madison, Communication Arts"
-date: Fall 2019
+date: 2019-09
 ---
 
 
