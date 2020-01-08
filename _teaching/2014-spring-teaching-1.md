@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Speech Composition"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Wisconsin – Madison, Communication Arts"
+start date: 2018-09
+end date: 2019-05
+location: "Madison, Wisconsin"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Sole lecturer for two sections of 13 students for this public-speaking course designed to familiarize students with basic principles of speech composition and delivery.
