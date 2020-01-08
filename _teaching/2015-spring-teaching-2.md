@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 venue: "University of Wisconsin - Madison, Communication Arts"
 date: 2019-09
+location: Wisconsin
 ---
 
 
