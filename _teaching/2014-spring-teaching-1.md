@@ -3,8 +3,7 @@ title: "Introduction to Speech Composition"
 collection: teaching
 type: "Undergraduate course"
 venue: "University of Wisconsin – Madison, Communication Arts"
-start date: 2018-09
-end date: 2019-05
+date: 2018 - 2019
 location: "Madison, Wisconsin"
 ---
 
