@@ -1,6 +1,6 @@
 ---
 title: 'Rod Abroad Blog'
-date: 2018
+date: 2020-01-07
 permalink: https://rodabroadblog.wordpress.com/
 tags:
   - cool posts
