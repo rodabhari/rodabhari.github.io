@@ -1,6 +1,5 @@
 ---
 title: 'Rod Abroad Blog'
-date: 2013-08-14
 permalink: https://rodabroadblog.wordpress.com/
 tags:
   - cool posts
